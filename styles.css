@@ -1,0 +1,28 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: bisque;
+}
+
+h1,
+h2 {
+    background-color: cornflowerblue;
+    color: bisque;
+}
+
+a {
+    color: cornflowerblue;
+}
+
+a:hover {
+    font-style: italic;
+    font-weight: bold;
+}
+
+img {
+    height: 512px;
+    width: auto;
+    border-radius: 5%;
+}
