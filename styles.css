@@ -1,0 +1,25 @@
+body {
+    background-color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1,
+h2 {
+    background-color: cornflowerblue;
+    color: bisque;
+}
+
+img {
+    height: 475px;
+    width: auto;
+    border-radius: 5%;
+}
+
+a {
+    color: cornflowerblue;
+}
+
+a:hover {
+    font-weight: bold;
+    font-style: italic;
+}
